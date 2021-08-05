@@ -1,0 +1,6 @@
+{
+  "name": "cors-anywhere-heroku",
+  "description": "cors anywhere ready to deploy to heroku",
+  "repository": "https://github.com/ThatFruedDued/cors-anywhere",
+  "keywords": ["node"]
+}
